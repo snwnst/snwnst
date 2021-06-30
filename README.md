@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=snwnst&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snwnst&theme=dark&show_icons=true&count_private=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=snwnst&theme=dark)](https://git.io/streak-stats)
+
 <!--
 **snwnst/snwnst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
