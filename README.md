@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm snwnst</h1>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=snwnst&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
